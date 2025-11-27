@@ -1,5 +1,6 @@
-**Use Kiwi Browser for Android  :** [Download here](https://kiwi-browser.en.uptodown.com/android)
-Watch tutorial on YouTube for **How to import .crx plugin in kiwi browser**
+**Requirements : **
+--> Python
+--> Chrome Browser (use old version if not worked)
 
-**Use Chrome/FireFox for Windows  :** [Download here](https://www.google.com/chrome/)
-Watch tutorial on YouTube for **How to import .crx plugin in google chrome or firefox**
+**Chrome Browser for Windows  :** [Download here](https://www.google.com/chrome/)
+dm on ig for any help,problem ...
